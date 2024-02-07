@@ -1,0 +1,33 @@
+{
+  "name": "project-trimounts",
+  "version": "1.0.0",
+  "description": "Promoter of public digital education.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "docs:dev": "vitepress dev docs --host",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "f": "npm run f:config & npm run f:md",
+    "f:config": "prettier -w ./docs/.vitepress/*",
+    "f:md": "prettier -w **/*.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penyoofficial/project-trimounts.git"
+  },
+  "author": "Penyo",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/penyoofficial/project-trimounts/issues"
+  },
+  "homepage": "https://github.com/penyoofficial/project-trimounts#readme",
+  "devDependencies": {
+    "@types/node": "^20.11.16",
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^10.8.0",
+    "vitepress": "latest",
+    "vitepress-plugin-mermaid": "^2.0.16",
+    "yaml": "^2.3.4"
+  }
+}
