@@ -1,7 +1,7 @@
 # Compose 基础
 
 :::tip
-接下来假设您是一位精通 [Vue](../node-js/vue-101.md) 和 [TS](../js-and-ts/ts-101.md) 特性的专家，一些共通的基本概念不予列出。
+接下来假设您是一位精通 [Vue](../node/vue-101.md) 和 [TS](../es/ts-101.md) 特性的专家，一些共通的基本概念不予列出。
 :::
 
 Compose 通常指的是 Jetpack Compose。Jetpack 是一系列的现代 Android 库的组合。利用它们，我们能够更高效的开发应用程序。

@@ -361,7 +361,7 @@ MyBatis 提供了若干声明式标签帮助我们构造控制流：
 </select>
 ```
 
-当传入的参数是[集合](../java-se/collection.md)时，不再需要显式指定 `parameterType` 属性。对集合迭代使用 `foreach` 节点：
+当传入的参数是[集合](../java/collection.md)时，不再需要显式指定 `parameterType` 属性。对集合迭代使用 `foreach` 节点：
 
 ```xml
 <select id="queryLolisByIds" resultType="loli">

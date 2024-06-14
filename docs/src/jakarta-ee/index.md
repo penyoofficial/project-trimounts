@@ -11,8 +11,8 @@
 - 项目管理
   - [Maven](./maven.md)
 - 前端
-  - [HTML + CSS](../html-and-css/index.md) + [JavaScript](../js-and-ts/index.md)
-  - [Ajax](../js-and-ts/ajax.md) + [Vue](../node-js/vue-101.md)
+  - [HTML + CSS](../hc/index.md) + [JavaScript](../es/index.md)
+  - [Ajax](../es/ajax.md) + [Vue](../node/vue-101.md)
 - Java Web 核心技术
   - [Tomcat](./servlet.md#tomcat-快速应用) + [HTTP](./http.md) + [Servlet](./servlet.md)
   - [Request](./servlet.md#httpservletrequest-接口) + [Response](./servlet.md#httpservletresponse-接口)

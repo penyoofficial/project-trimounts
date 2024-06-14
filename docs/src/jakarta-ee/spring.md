@@ -251,7 +251,7 @@ Spring 会读取 Whatever 里所有的 setter，并自动匹配、填充。
 
 ## 基于注解的 Bean 管理
 
-随着项目规模的扩大，导致 XML 文件过于臃肿。Spring 提供了对[**注解**](../java-se/annotation.md)的全面支持。
+随着项目规模的扩大，导致 XML 文件过于臃肿。Spring 提供了对[**注解**](../java/annotation.md)的全面支持。
 
 要启动相关注解，需要在配置文件中的 `<beans>` 中加入节点：
 
