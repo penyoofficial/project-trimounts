@@ -23,11 +23,11 @@
   },
   "homepage": "https://github.com/penyoofficial/project-trimounts#readme",
   "devDependencies": {
-    "@types/node": "latest",
-    "markdown-it-mathjax3": "latest",
-    "mermaid": "latest",
-    "vitepress": "latest",
-    "vitepress-plugin-mermaid": "latest",
-    "yaml": "latest"
+    "@types/node": "^20.14.2",
+    "markdown-it-mathjax3": "^4.3.2",
+    "mermaid": "^10.9.1",
+    "vitepress": "^1.2.3",
+    "vitepress-plugin-mermaid": "^2.0.16",
+    "yaml": "^2.4.5"
   }
 }
